@@ -293,7 +293,11 @@ html, body {
   background: #FF5C00;
   border-radius: 17px;
   box-shadow: 5px -5px 0px #FFB992;
+  text-align: center;
+  display: flex;
+  justify-content: center;
 }
+
 
 .la {
   width: 400px;
@@ -313,7 +317,7 @@ html, body {
   font-family: Gilroy;
   font-style: normal;
   font-weight: 800;
-  font-size: 32px;
+  font-size: 28px;
   line-height: 43px;
   color: #EBE9E9;
 }
@@ -322,7 +326,7 @@ html, body {
   font-family: Clear Sans;
   font-style: normal;
   font-weight: 800;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 43px;
   color: #464cfd;
 }
@@ -346,7 +350,13 @@ html, body {
   font-size: 14px;
   color: #1B0E67;
 }
-
+.n{
+  text-align: center;
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+}
 a {
   font-family: Gilroy;
   font-style: normal;
@@ -415,6 +425,13 @@ a:hover {
   width: auto;
   height: auto;
 }
-
-/* .w1{width: 50%;
-height: 40%;} */
+.carousel-control-prev-icon{
+  background-image: url(icon/arrow-pointing-to-left.png);
+}
+.carousel-control-next-icon{
+  background-image: url(icon/arrow-pointing-to-right.png);
+}
+.w{width:150px;
+height: 200px;
+width: 104px;
+height: 157px;}
