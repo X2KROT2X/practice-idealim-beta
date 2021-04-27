@@ -1,6 +1,10 @@
+@import url("fonts/clearsans/index-main.css");
+@import url("fonts/Gillroy ExtraBold/index-main.css");
+
 html, body {
   font-family: Clear Sans;
 }
+
 
 .bg {
   background: linear-gradient(180deg, #FF9B9B 0%, #23104B 100%);
@@ -245,7 +249,7 @@ html, body {
   font-family: Gilroy;
   font-style: normal;
   font-weight: 800;
-  font-size: 40px;
+  font-size: 34px;
   line-height: 39px;
   color: #FFFFFF;
   text-shadow: 3px -3px 0px #00881E;
@@ -256,7 +260,7 @@ html, body {
   font-family: Gilroy;
   font-style: normal;
   font-weight: 800;
-  font-size: 40px;
+  font-size: 34px;
   line-height: 39px;
   color: #FFFFFF;
   text-shadow: 3px -3px 0px #C10000;
@@ -267,7 +271,7 @@ html, body {
   font-family: Clear Sans;
   font-style: normal;
   font-weight: 800;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 39px;
   color: #FFFFFF;
   text-align: start;
@@ -277,7 +281,7 @@ html, body {
   font-family: Gilroy;
   font-style: normal;
   font-weight: 800;
-  font-size: 48px;
+  font-size: 38px;
   line-height: 59px;
   text-align: center;
   color: #FFFFFF;
